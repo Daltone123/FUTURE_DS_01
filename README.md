@@ -15,7 +15,8 @@ This project analyzes social media sentiment using both Jupyter Notebook for pre
 ### 1️⃣ Sentiment Distribution Pie Chart 🍰
 The **Sentiment Distribution Pie Chart** visualizes the overall sentiment breakdown of social media posts. This chart provides the percentage of **positive**, **neutral**, and **negative** reviews.
 
-![Sentiment Distribution Pie Chart](images/s1.png)
+![Sentiment Distribution Pie Chart](https://github.com/Daltone123/FUTURE_DS_01/raw/main/s1.png)
+
 
 ### 2️⃣ Sentiment Trend Over Time (Line Chart) 📅
 The **Sentiment Trend Over Time** line chart shows the sentiment shift over months. It helps detect how public sentiment has evolved and highlights any significant positive or negative trends.
